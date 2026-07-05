@@ -1,0 +1,22 @@
+# Environment
+.env
+
+# Node
+node_modules/
+
+# Python
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Output
+output/
+
+# Logs
+*.log
