@@ -1,0 +1,119 @@
+{
+  "name": "Piyush Rajendra Ladukar",
+  "title": "Backend Developer | Python | Machine Learning | Building in GenAI & Agentic AI",
+  "contact": {
+    "phone": "+91 8668720984",
+    "email": "work.piyushladukar@gmail.com",
+    "portfolio": "https://piyushladukar.vercel.app/",
+    "github": "https://github.com/PiyushLadukar",
+    "linkedin": "https://linkedin.com/in/piyush-ladukar"
+  },
+  "summary": "Final-year B.Tech CSE student with hands-on experience in backend development, building secure REST APIs, and developing scalable, data-driven applications using real-world datasets. Passionate about AI and currently building LLM-powered applications while expanding expertise in Generative AI, Retrieval-Augmented Generation (RAG), and AI agents. Strong foundation in Python, backend systems, and problem-solving, with a proven track record of delivering end-to-end projects. Seeking Backend Developer, Python Developer, or AI/ML Engineer internships and full-time opportunities.",
+  "experience": [
+    {
+      "company": "ESM Elixir (formerly Dysmech Consultancy Services)",
+      "companyUrl": "https://esm.co.in/",
+      "role": "Backend Developer Intern",
+      "location": "On-site, Nagpur",
+      "startDate": "2025-08",
+      "endDate": "2025-10",
+      "bullets": [
+        "Built and maintained 12 REST API endpoints using Node.js, Express.js, and PostgreSQL for internal enterprise applications supporting CIRP/IBC advisory workflows.",
+        "Implemented JWT Authentication and RBAC-based authorization systems, improving secure access control and backend security workflows.",
+        "Collaborated on secure enterprise systems integrating authentication, role management, and database-driven services."
+      ],
+      "stack": ["JavaScript", "Node.js", "Express.js", "JWT", "RBAC", "REST APIs", "SQL", "MongoDB", "Git", "Postman"]
+    }
+  ],
+  "projects": [
+    {
+      "name": "SecondBrain",
+      "url": "https://github.com/PiyushLadukar/SecondBrain",
+      "tagline": "Personal AI Agent & RAG System (In Development)",
+      "bullets": [
+        "Building a Retrieval-Augmented Generation (RAG) pipeline with LangChain and a vector database to power a personal knowledge-agent system with LLM-based reasoning and tool calling.",
+        "Designing agent memory and multi-step workflow logic for context retrieval, embeddings generation, and structured LLM responses."
+      ],
+      "status": "in_development"
+    },
+    {
+      "name": "LokDrishti",
+      "url": "https://lokdrishti.online/",
+      "githubUrl": "https://github.com/PiyushLadukar/LokDrishti",
+      "tagline": "Parliamentary Intelligence Platform",
+      "bullets": [
+        "Built a full-stack civic data platform scraping and structuring Lok Sabha MP data (attendance, debates, criminal records) for 543 MPs; deployed Flask APIs and a React dashboard via Supabase with OAuth."
+      ],
+      "status": "deployed"
+    },
+    {
+      "name": "AatankDrishti",
+      "url": "https://aatank-drishti.vercel.app/",
+      "githubUrl": "https://github.com/PiyushLadukar/AatankDrishti",
+      "tagline": "Global Terrorism Analytics",
+      "bullets": [
+        "Engineered a data pipeline and React dashboard analyzing 181K+ terrorism incidents across 200+ countries from the GTD dataset."
+      ],
+      "status": "deployed"
+    },
+    {
+      "name": "Why Farmer Suicides",
+      "url": "https://why-farmer-suicides.vercel.app/",
+      "githubUrl": "https://github.com/PiyushLadukar/Why-Farmer-Suicides-",
+      "tagline": "Agricultural Crisis Analytics",
+      "bullets": [
+        "Analyzed Maharashtra farmer suicide data (2014-2023) across 33 districts, building dashboards correlating debt, crop failure, and weather patterns."
+      ],
+      "status": "deployed"
+    },
+    {
+      "name": "Anomax",
+      "url": "https://ijpub.org/ijvra/papers/IJVRA26A4340.pdf",
+      "tagline": "ML Anomaly Detection | Published, IJVRA",
+      "bullets": [
+        "Developed a machine learning model to detect anomalous electricity consumption patterns; published findings in the International Journal of Versatile Research and Analysis (IJVRA)."
+      ],
+      "status": "published"
+    }
+  ],
+  "otherProjects": [
+    {
+      "name": "Blocks by Pi",
+      "githubUrl": "https://github.com/PiyushLadukar/BlocksByPi",
+      "description": "Computer vision hand-gesture recognition system for virtual block placement (Python, OpenCV, MediaPipe)."
+    },
+    {
+      "name": "QR-Scanner",
+      "githubUrl": "https://github.com/PiyushLadukar/QrScanByPi",
+      "description": "Real-time QR detection/decoding app with clipboard integration (Python, OpenCV, Pyzbar)."
+    },
+    {
+      "name": "Rajniti",
+      "url": "https://rajniti-app.vercel.app/",
+      "description": "Contributor to an open-source civic-tech platform for structured political data and analytics."
+    }
+  ],
+  "skills": {
+    "languages": ["Python", "JavaScript", "SQL"],
+    "backend": ["FastAPI", "Flask", "Node.js", "Express.js", "REST APIs", "JWT", "OAuth", "RBAC"],
+    "aiMl": ["Machine Learning", "Computer Vision", "Pandas", "NumPy", "Scikit-learn", "OpenCV"],
+    "genAi": ["LangChain", "RAG", "Vector Databases", "LLM APIs", "Embeddings", "Agentic AI"],
+    "databases": ["PostgreSQL", "MySQL", "MongoDB", "Supabase", "SQLAlchemy"],
+    "toolsAndPlatforms": ["Git", "GitHub", "Docker", "Linux", "Vercel", "Render", "Postman"]
+  },
+  "education": [
+    {
+      "institution": "Jhulelal Institute of Technology, Nagpur",
+      "degree": "B.Tech, Computer Science",
+      "cgpa": 8.4,
+      "startDate": "2023-07",
+      "endDate": "2027-06"
+    }
+  ],
+  "achievements": [
+    "Serving as Secretary of Encypherist \u2013 CSE Technical Forum during the 2026-2027 tenure.",
+    "Participated in 12+ hackathons; organized 2 hackathon events as Event Head.",
+    "Achieved 2 Gold Medals at the National Karate Championship (2019) among 250+ athletes.",
+    "Built and deployed multiple full-stack and AI-based applications, each live in production."
+  ]
+}
